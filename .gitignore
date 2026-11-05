@@ -1,3 +1,7 @@
 /cmake-build-debug
 /cmake-build-release
 /build
+/CMakeUserPresets.json
+
+.idea
+.zed
